@@ -6,5 +6,6 @@
  */
 int _putchar(char c)
 {
+	/*Putchar*/
 	return (write(1, &c, 1));
 }
